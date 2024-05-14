@@ -1,0 +1,753 @@
+{
+    "breadcrumbs": [
+        {
+            "Library of Congress": "https://www.loc.gov"
+        },
+        {
+            "Books/Printed Material": "https://www.loc.gov/books/"
+        },
+        {
+            "Search": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy&fo=json&q=Grammatical-Man&st=list"
+        }
+    ],
+    "content": {
+        "active": true,
+        "link": "https://www.loc.gov/books/",
+        "pagination": "1 of 2",
+        "partof": [],
+        "results": [
+            {
+                "access_restricted": false,
+                "aka": [
+                    "http://www.loc.gov/item/82003272/",
+                    "http://lccn.loc.gov/82003272"
+                ],
+                "campaigns": [],
+                "contributor": [
+                    "campbell, jeremy"
+                ],
+                "date": "1982",
+                "dates": [
+                    "1982"
+                ],
+                "description": [
+                    "Includes bibliographical references and index."
+                ],
+                "digitized": false,
+                "extract_timestamp": "2023-06-02T21:00:50.926Z",
+                "group": [
+                    "catalog-split-08",
+                    "catalog",
+                    "main-catalog-split-08",
+                    "main-catalog"
+                ],
+                "hassegments": false,
+                "id": "http://lccn.loc.gov/82003272",
+                "image_url": [],
+                "index": 1,
+                "item": {
+                    "call_number": [
+                        "Q360 .C33 1982"
+                    ],
+                    "contributors": [
+                        "Campbell, Jeremy, 1931-"
+                    ],
+                    "created_published": [
+                        "New York : Simon and Schuster, c1982."
+                    ],
+                    "date": "1982",
+                    "format": [
+                        "text"
+                    ],
+                    "language": [
+                        "eng"
+                    ],
+                    "medium": [
+                        "319 p. ; 22 cm."
+                    ],
+                    "notes": [
+                        "Includes bibliographical references and index."
+                    ],
+                    "subjects": [
+                        "Information theory"
+                    ],
+                    "title": "Grammatical man : information, entropy, language, and life"
+                },
+                "language": [
+                    "english"
+                ],
+                "number": [
+                    "82003272",
+                    "2016-05-05t08:39:48"
+                ],
+                "number_lccn": [
+                    "82003272"
+                ],
+                "number_source_modified": [
+                    "2016-05-05t08:39:48"
+                ],
+                "original_format": [
+                    "book"
+                ],
+                "other_title": [],
+                "partof": [
+                    "catalog"
+                ],
+                "resources": [],
+                "shelf_id": "Q360 .C33 1982",
+                "site": [
+                    "catalog"
+                ],
+                "subject": [
+                    "information theory"
+                ],
+                "timestamp": "2023-07-14T17:37:21.119Z",
+                "title": "Grammatical man : information, entropy, language, and life",
+                "type": [
+                    "text"
+                ],
+                "url": "//lccn.loc.gov/82003272"
+            }
+        ],
+        "slug": "",
+        "title": "Search Books/Printed Material",
+        "url": "https://www.loc.gov/books/"
+    },
+    "content_is_post": false,
+    "context": "original-format:book",
+    "description": "The Library of Congress Catalog contains 18 million catalog records for books, serials, manuscripts, maps, music, recordings, images, and electronic resources in the Library of Congress collections.  Featured here are the collections with digitized material containing printed text.",
+    "expert_resources": [
+        {
+            "title": "Collections with Books",
+            "url": "/books/collections/"
+        },
+        {
+            "title": "Library of Congress Catalog",
+            "url": "//catalog.loc.gov/"
+        }
+    ],
+    "facet_trail": [
+        {
+            "facet": "Original Format",
+            "field": "original-format",
+            "superset": "https://www.loc.gov/search/?all=True&fa=contributor:campbell,+jeremy&fo=json&q=Grammatical-Man&st=list",
+            "value": "book"
+        },
+        {
+            "facet": "searchTerms",
+            "field": "searchTerms",
+            "superset": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy&fo=json&st=list",
+            "value": "Grammatical-Man"
+        },
+        {
+            "facet": "Contributor",
+            "field": "contributor",
+            "superset": "https://www.loc.gov/books/?all=True&fo=json&q=Grammatical-Man&st=list",
+            "value": "campbell, jeremy"
+        }
+    ],
+    "facet_views": {
+        "calendar": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy&fo=json&fs=calendar&q=Grammatical-Man&st=list",
+        "chart": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy&fo=json&fs=chart&q=Grammatical-Man&st=list",
+        "current": "list",
+        "list": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy&fo=json&q=Grammatical-Man&st=list"
+    },
+    "facets": [
+        {
+            "filters": [
+                {
+                    "count": 1,
+                    "not": null,
+                    "off": null,
+                    "on": "https://www.loc.gov/books/?all=true&fa=contributor:campbell,+jeremy&fo=json&q=Grammatical-Man&st=list",
+                    "title": "false"
+                }
+            ],
+            "title": "Available Online",
+            "type": "digitized"
+        },
+        {
+            "filters": [
+                {
+                    "count": 1,
+                    "not": null,
+                    "off": "https://www.loc.gov/search/?all=True&fa=contributor:campbell,+jeremy&fo=json&q=Grammatical-Man&st=list",
+                    "on": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy&fo=json&q=Grammatical-Man&st=list",
+                    "title": "book"
+                }
+            ],
+            "title": "Original Format",
+            "type": "original-format"
+        },
+        {
+            "filters": [
+                {
+                    "count": 1,
+                    "not": null,
+                    "off": null,
+                    "on": "https://www.loc.gov/books/?all=True&dates=1900/1999&fa=contributor:campbell,+jeremy&fo=json&q=Grammatical-Man&st=list",
+                    "term": "1900-01-01T00:00:00Z",
+                    "title": "1900 to 1999"
+                }
+            ],
+            "title": "Date",
+            "type": "dates"
+        },
+        {
+            "filters": [
+                {
+                    "count": 1,
+                    "not": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy%7Cpartof!:catalog&fo=json&q=Grammatical-Man&st=list",
+                    "off": null,
+                    "on": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy%7Cpartof:catalog&fo=json&q=Grammatical-Man&st=list",
+                    "title": "catalog"
+                }
+            ],
+            "title": "Part of",
+            "type": "partof"
+        },
+        {
+            "filters": [
+                {
+                    "count": 1,
+                    "not": null,
+                    "off": "https://www.loc.gov/books/?all=True&fo=json&q=Grammatical-Man&st=list",
+                    "on": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy&fo=json&q=Grammatical-Man&st=list",
+                    "title": "campbell, jeremy"
+                }
+            ],
+            "title": "Contributor",
+            "type": "contributor"
+        },
+        {
+            "filters": [
+                {
+                    "count": 1,
+                    "not": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy%7Csubject!:information+theory&fo=json&q=Grammatical-Man&st=list",
+                    "off": null,
+                    "on": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy%7Csubject:information+theory&fo=json&q=Grammatical-Man&st=list",
+                    "title": "information theory"
+                }
+            ],
+            "title": "Subject",
+            "type": "subject"
+        },
+        {
+            "filters": [
+                {
+                    "count": 1,
+                    "not": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy%7Clanguage!:english&fo=json&q=Grammatical-Man&st=list",
+                    "off": null,
+                    "on": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy%7Clanguage:english&fo=json&q=Grammatical-Man&st=list",
+                    "title": "english"
+                }
+            ],
+            "title": "Language",
+            "type": "language"
+        },
+        {
+            "filters": [
+                {
+                    "count": 1,
+                    "not": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy%7Caccess-restricted!:false&fo=json&q=Grammatical-Man&st=list",
+                    "off": null,
+                    "on": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy%7Caccess-restricted:false&fo=json&q=Grammatical-Man&st=list",
+                    "title": "false"
+                }
+            ],
+            "title": "Access Condition",
+            "type": "access-restricted"
+        }
+    ],
+    "featured_items": [
+        {
+            "image": "/static/collections/dance-instruction-manuals-from-1490-to-1920/images/featured-ballroom.jpg",
+            "title": "How to dance A complete ball-room and party guide. Containing all the latest figures, together with old-fashioned and contra dances now in general use. Also, a guide to ballroom etiquette, toilets, and general useful information for dancers",
+            "url": "/resource/musdi.098/"
+        },
+        {
+            "image": "/static/collections/slaves-and-the-courts-from-1740-to-1860/images/featured-scott2.jpg",
+            "title": "The Dred Scott decision : opinion of Chief Justice Taney /",
+            "url": "/item/17001543/"
+        },
+        {
+            "image": "/static/collections/dance-instruction-manuals-from-1490-to-1920/images/featured-ancient.jpg",
+            "title": "How to dance the revived ancient dances",
+            "url": "/resource/musdi.200.0/?sp=54"
+        },
+        {
+            "image": "/static/collections/country-studies/images/featured-cuba.jpg",
+            "title": "Cuba : a country study",
+            "url": "/item/2002018893/"
+        },
+        {
+            "image": "/static/collections/washington-and-chesapeake-bay-narratives/images/featured-item10.jpg",
+            "title": "Page 17 of Photographic views and description of the great Baltimore $175,000,000 fire, February 7, 8, 9, 1904.",
+            "url": "/resource/lhbcb.08168/?sp=17"
+        },
+        {
+            "image": "/static/collections/country-studies/images/featured-russia.jpg",
+            "title": "Russia : a country study",
+            "url": "/item/97007563/"
+        },
+        {
+            "image": "/static/collections/dance-instruction-manuals-from-1490-to-1920/images/featured-ballarino.jpg",
+            "title": "Il ballarino di M. Fabritio Caroso da Sermoneta, diuiso in due trattati nel primo de' quali si dimostra la diuersit\u00e0 de i nomi, che si danno \u00e0 gli atti; & mouimenti, che interuengons ne i balli: & con molte regole si dichiara come debbano farsi. Nel secondo s'insegnano diuerse sorti di balli, & balletti s\u00ec all' vso d'Italia, come \u00e0 quello di Francia, & Spagna. Ornato di molte figure. Et con l'intauolatura di liuto nella sonata di ciascun ballo, & il soprano della musica alla maggior parte di essi. Opera nuouamente mandata in luce",
+            "url": "/resource/musdi.230.0/?sp=54"
+        },
+        {
+            "image": "/static/collections/puerto-rico-books-and-pamphlets/images/featured-item1.jpg",
+            "title": "Trabajos parlamentarios de D. Francisco Garc\u00eda Molinas, diputado \u00e1 Cortes por San Juan de Puerto Rico",
+            "url": "/resource/lhbpr.33527/?sp=5"
+        },
+        {
+            "image": "/static/collections/continental-congress-and-constitutional-convention-from-1774-to-1789/images/featured-declaration.jpg",
+            "title": "In Congress, July 4, 1776. The unanimous declaration of the thirteen United States of America.",
+            "url": "/item/90898037/"
+        },
+        {
+            "image": "/static/collections/federal-writers-project/images/industrial-folklore.jpg",
+            "title": "Bessie Jaffey's notes of Nelson Algren's staff meeting on documentary realism, July 13, 1939",
+            "url": "/resource/wpalh0.07020105/seq-2"
+        },
+        {
+            "image": "/static/collections/dance-instruction-manuals-from-1490-to-1920/images/featured-society.jpg",
+            "title": "The dance of society a critical analysis of all the standard quadrilles, round dances, 102 figures of le cotillon (\"the German\"), &c., including dissertations upon time and its accentuation, carriage, style, and other relative matter",
+            "url": "/resource/musdi.181.0/?sp=19"
+        },
+        {
+            "image": "/static/collections/puerto-rico-books-and-pamphlets/images/featured-item5.jpg",
+            "title": "La cuestion social en las Antillas Espanolas discurso pronunciado en la conferencia del 26 de febrero de 1872",
+            "url": "/resource/lhbpr.29149/?sp=1"
+        },
+        {
+            "image": "/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/images/blundeuile.jpg",
+            "title": "M. Blundeuile his exercises : containing eight treatises, the titles whereof are set down in the next printed page : which treatises are very necessarie to be read and learned of all young gentlemen, that haue not beene exercised in such disciplines, and yet are desirous to haue knowledge as well in cosmographie, astronomie, and geographie, as also in the art of nauigation, in which art it is impossible to profite without the helpe of these, or such like instructions : to the furtherance of which art of nauigation, the said M. Blundeuile specially wrote the said treatises",
+            "url": "/resource/rbdk.d036/?sp=301"
+        },
+        {
+            "image": "/static/collections/slaves-and-the-courts-from-1740-to-1860/images/featured-garrison.jpg",
+            "title": "A brief sketch of the trial of William Lloyd Garrison, for an alleged libel on Francis Todd, of Newburyport, Mass.",
+            "url": "/item/18019032/"
+        },
+        {
+            "image": "/static/collections/federal-writers-project/images/davey-day-interview.jpg",
+            "title": "Nelson Algren interview of Davey Day, Jewish boxer, Chicago, April 13, 1939",
+            "url": "/resource/wpalh0.07040108/seq-4"
+        }
+    ],
+    "form_facets": {},
+    "image_url": [
+        "/static/images/original-format/book.png"
+    ],
+    "next": {
+        "active": false,
+        "api": "/books/?fa=partof:digital+collections&c=40",
+        "disable_navigation": true,
+        "link": "https://www.loc.gov/books/collections/",
+        "pagination": "2 of 2",
+        "show_featured": true,
+        "slug": "collections",
+        "style": "gallery",
+        "title": "Collections with Books/Printed Material",
+        "url": "https://www.loc.gov/books/collections/?st=gallery"
+    },
+    "next_sibling": {
+        "active": false,
+        "api": "/books/?fa=partof:digital+collections&c=40",
+        "disable_navigation": true,
+        "link": "https://www.loc.gov/books/collections/",
+        "pagination": "2 of 2",
+        "show_featured": true,
+        "slug": "collections",
+        "style": "gallery",
+        "title": "Collections with Books/Printed Material",
+        "url": "https://www.loc.gov/books/collections/?st=gallery"
+    },
+    "options": {
+        "access_group": [
+            ""
+        ],
+        "access_group_raw": "",
+        "all": "True",
+        "api_version": "1",
+        "app_context": null,
+        "application_version": "$Revision$",
+        "attribute": null,
+        "attribute!": null,
+        "attribute_map": null,
+        "cache_tags": [
+            "catalog-split-08",
+            "catalog",
+            "main-catalog-split-08",
+            "main-catalog"
+        ],
+        "callback": null,
+        "clip": null,
+        "clip_image_width": null,
+        "clip_rotation": null,
+        "content_filter": null,
+        "content_replacement": "",
+        "count": null,
+        "dates": null,
+        "default_count": 25,
+        "delimiter": null,
+        "digital_id": null,
+        "display_level": null,
+        "distance": null,
+        "downloadOption": null,
+        "duration": 0.21718096733093262,
+        "embed": [],
+        "embed!": [],
+        "excludeTerms": null,
+        "facetLimits": "contributor:campbell, jeremy",
+        "facetPrefix": null,
+        "facet_count": null,
+        "facet_style": null,
+        "field": null,
+        "format": "json",
+        "host": "www.loc.gov",
+        "ical": false,
+        "id": null,
+        "iiif": false,
+        "index": null,
+        "inputEncoding": "UTF-8",
+        "is_portal": true,
+        "item": null,
+        "items": null,
+        "keys": null,
+        "language": null,
+        "latlong": null,
+        "method": "GET",
+        "newSearch": null,
+        "new_clip_url": false,
+        "onsite": false,
+        "operator": null,
+        "outputEncoding": "UTF-8",
+        "page_campaigns": [],
+        "path_info": "/books/",
+        "port": "443",
+        "proxypath": null,
+        "query_string": "all=True&fa=contributor:campbell,+jeremy&fo=json&q=Grammatical-Man&st=list",
+        "redirect_proxy": false,
+        "redirect_to_item": null,
+        "referer": null,
+        "region": "",
+        "release_id": 123456789,
+        "request_params": {
+            "all": [
+                "True"
+            ],
+            "fa": [
+                "contributor:campbell, jeremy"
+            ],
+            "fo": [
+                "json"
+            ],
+            "q": "Grammatical-Man",
+            "st": [
+                "list"
+            ]
+        },
+        "request_url": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy&fo=json&q=Grammatical-Man&st=list",
+        "resource": "",
+        "resource_sequence": null,
+        "scheme": "https",
+        "searchIn": "original-format:book",
+        "searchTerms": "Grammatical-Man",
+        "segments": null,
+        "site_id": null,
+        "site_type": "books",
+        "solrQuery": "",
+        "sortBy": null,
+        "sortOrder": null,
+        "startPage": null,
+        "style": "list",
+        "suggested": null,
+        "target": null,
+        "template": "search/base",
+        "timestamp": 1715639059.745783,
+        "unionFacets": "",
+        "webcast_permalink": null
+    },
+    "pages": [
+        {
+            "active": true,
+            "children": [
+                {
+                    "active": true,
+                    "link": "https://www.loc.gov/books/",
+                    "pagination": "1 of 2",
+                    "partof": [],
+                    "results": [
+                        {
+                            "access_restricted": false,
+                            "aka": [
+                                "http://www.loc.gov/item/82003272/",
+                                "http://lccn.loc.gov/82003272"
+                            ],
+                            "campaigns": [],
+                            "contributor": [
+                                "campbell, jeremy"
+                            ],
+                            "date": "1982",
+                            "dates": [
+                                "1982"
+                            ],
+                            "description": [
+                                "Includes bibliographical references and index."
+                            ],
+                            "digitized": false,
+                            "extract_timestamp": "2023-06-02T21:00:50.926Z",
+                            "group": [
+                                "catalog-split-08",
+                                "catalog",
+                                "main-catalog-split-08",
+                                "main-catalog"
+                            ],
+                            "hassegments": false,
+                            "id": "http://lccn.loc.gov/82003272",
+                            "image_url": [],
+                            "index": 1,
+                            "item": {
+                                "call_number": [
+                                    "Q360 .C33 1982"
+                                ],
+                                "contributors": [
+                                    "Campbell, Jeremy, 1931-"
+                                ],
+                                "created_published": [
+                                    "New York : Simon and Schuster, c1982."
+                                ],
+                                "date": "1982",
+                                "format": [
+                                    "text"
+                                ],
+                                "language": [
+                                    "eng"
+                                ],
+                                "medium": [
+                                    "319 p. ; 22 cm."
+                                ],
+                                "notes": [
+                                    "Includes bibliographical references and index."
+                                ],
+                                "subjects": [
+                                    "Information theory"
+                                ],
+                                "title": "Grammatical man : information, entropy, language, and life"
+                            },
+                            "language": [
+                                "english"
+                            ],
+                            "number": [
+                                "82003272",
+                                "2016-05-05t08:39:48"
+                            ],
+                            "number_lccn": [
+                                "82003272"
+                            ],
+                            "number_source_modified": [
+                                "2016-05-05t08:39:48"
+                            ],
+                            "original_format": [
+                                "book"
+                            ],
+                            "other_title": [],
+                            "partof": [
+                                "catalog"
+                            ],
+                            "resources": [],
+                            "shelf_id": "Q360 .C33 1982",
+                            "site": [
+                                "catalog"
+                            ],
+                            "subject": [
+                                "information theory"
+                            ],
+                            "timestamp": "2023-07-14T17:37:21.119Z",
+                            "title": "Grammatical man : information, entropy, language, and life",
+                            "type": [
+                                "text"
+                            ],
+                            "url": "//lccn.loc.gov/82003272"
+                        }
+                    ],
+                    "slug": "",
+                    "title": "Search Books/Printed Material",
+                    "url": "https://www.loc.gov/books/"
+                }
+            ],
+            "link": "https://www.loc.gov/books/",
+            "pagination": "1 of 2",
+            "slug": "",
+            "title": "Search Books/Printed Material",
+            "url": "https://www.loc.gov/books/"
+        },
+        {
+            "active": false,
+            "api": "/books/?fa=partof:digital+collections&c=40",
+            "disable_navigation": true,
+            "link": "https://www.loc.gov/books/collections/",
+            "pagination": "2 of 2",
+            "show_featured": true,
+            "slug": "collections",
+            "style": "gallery",
+            "title": "Collections with Books/Printed Material",
+            "url": "https://www.loc.gov/books/collections/?st=gallery"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "first": null,
+        "from": 1,
+        "last": null,
+        "next": null,
+        "of": 1,
+        "page_list": [
+            {
+                "number": 1,
+                "url": null
+            }
+        ],
+        "perpage": 25,
+        "perpage_options": [
+            25,
+            50,
+            100,
+            150
+        ],
+        "previous": null,
+        "results": "1 - 1",
+        "to": 1,
+        "total": 1
+    },
+    "portal": true,
+    "previous": null,
+    "previous_sibling": null,
+    "results": [
+        {
+            "access_restricted": false,
+            "aka": [
+                "http://www.loc.gov/item/82003272/",
+                "http://lccn.loc.gov/82003272"
+            ],
+            "campaigns": [],
+            "contributor": [
+                "campbell, jeremy"
+            ],
+            "date": "1982",
+            "dates": [
+                "1982"
+            ],
+            "description": [
+                "Includes bibliographical references and index."
+            ],
+            "digitized": false,
+            "extract_timestamp": "2023-06-02T21:00:50.926Z",
+            "group": [
+                "catalog-split-08",
+                "catalog",
+                "main-catalog-split-08",
+                "main-catalog"
+            ],
+            "hassegments": false,
+            "id": "http://lccn.loc.gov/82003272",
+            "image_url": [],
+            "index": 1,
+            "item": {
+                "call_number": [
+                    "Q360 .C33 1982"
+                ],
+                "contributors": [
+                    "Campbell, Jeremy, 1931-"
+                ],
+                "created_published": [
+                    "New York : Simon and Schuster, c1982."
+                ],
+                "date": "1982",
+                "format": [
+                    "text"
+                ],
+                "language": [
+                    "eng"
+                ],
+                "medium": [
+                    "319 p. ; 22 cm."
+                ],
+                "notes": [
+                    "Includes bibliographical references and index."
+                ],
+                "subjects": [
+                    "Information theory"
+                ],
+                "title": "Grammatical man : information, entropy, language, and life"
+            },
+            "language": [
+                "english"
+            ],
+            "number": [
+                "82003272",
+                "2016-05-05t08:39:48"
+            ],
+            "number_lccn": [
+                "82003272"
+            ],
+            "number_source_modified": [
+                "2016-05-05t08:39:48"
+            ],
+            "original_format": [
+                "book"
+            ],
+            "other_title": [],
+            "partof": [
+                "catalog"
+            ],
+            "resources": [],
+            "shelf_id": "Q360 .C33 1982",
+            "site": [
+                "catalog"
+            ],
+            "subject": [
+                "information theory"
+            ],
+            "timestamp": "2023-07-14T17:37:21.119Z",
+            "title": "Grammatical man : information, entropy, language, and life",
+            "type": [
+                "text"
+            ],
+            "url": "//lccn.loc.gov/82003272"
+        }
+    ],
+    "search": {
+        "dates": null,
+        "facet_limits": "contributor:campbell, jeremy",
+        "field": null,
+        "hits": 1,
+        "in": "original-format:book",
+        "query": "Grammatical-Man",
+        "recommended": 0,
+        "site": {},
+        "sort_by": null,
+        "type": "search",
+        "union_facets": "",
+        "url": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy&fo=json&q=Grammatical-Man&st=list"
+    },
+    "shards": [
+        "00",
+        "01",
+        "08"
+    ],
+    "site_type": "books",
+    "timestamp": 1715639059963,
+    "title": "Books/Printed Material",
+    "type": "context-portal",
+    "views": {
+        "brief": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy&fo=json&q=Grammatical-Man&st=brief",
+        "current": "list",
+        "gallery": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy&fo=json&q=Grammatical-Man&st=gallery",
+        "grid": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy&fo=json&q=Grammatical-Man&st=grid",
+        "list": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy&fo=json&q=Grammatical-Man",
+        "slideshow": "https://www.loc.gov/books/?all=True&fa=contributor:campbell,+jeremy&fo=json&q=Grammatical-Man&st=slideshow"
+    }
+}
