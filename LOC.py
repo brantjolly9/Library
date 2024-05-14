@@ -32,8 +32,8 @@ def clean(response):
         with open("test.json", "w") as test:
             json.dump(respjson, test, indent=4)
     except Exception as e:
-        print(f"STATUS: {resp.status_code}")
-        print(f"Encoding: {resp.apparent_encoding}")
+        print(f"STATUS: {response.status_code}")
+        print(f"Encoding: {response.apparent_encoding}")
         print(e)
 
     finally:
